@@ -1,6 +1,7 @@
 ###此控件的具体实现说明请访问：https://my.oschina.net/227/blog/796485
 
 # TTImageBlurryEvaluation
+iOS 中识别图片清晰度   
    
 ## 使用方法
 引入“TTImageBlurryEvaluation.hpp”和“TTImageBlurryEvaluation.mm”两个文件
