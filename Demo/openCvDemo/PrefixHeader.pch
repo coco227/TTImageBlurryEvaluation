@@ -1,0 +1,12 @@
+//
+//  PrefixHeader.pch
+//  openCvDemo
+//
+//  Created by Zhangcoco on 16/11/29.
+//  Copyright © 2016年 tao. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#endif /* PrefixHeader_pch */
